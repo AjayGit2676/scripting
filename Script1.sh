@@ -4,7 +4,7 @@ echo "We are from batch-27 and learning DevOps"
 echo "Hello, Good morning!"
 echo "we are Larning Git"
 echo "we are Larning Devops"
-echo "we are Larning Github"
+
 
 
 
